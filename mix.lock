@@ -1,0 +1,4 @@
+%{"erlport": {:git, "https://github.com/hdima/erlport.git", "246b7722d62b87b48be66d9a871509a537728962", []},
+  "poison": {:hex, :poison, "3.0.0", "625ebd64d33ae2e65201c2c14d6c85c27cc8b68f2d0dd37828fde9c6920dd131", [:mix], []},
+  "riffed": {:git, "https://github.com/pinterest/riffed.git", "ad8528e173daf821efdef6d221ffaa6c3ee05cff", []},
+  "thrift": {:hex, :thrift, "1.3.1", "bdf0d0b7f5be36554c2f38b3e6698f84febd9240f1e6ace45b17eaa932ecebe6", [:mix], []}}
